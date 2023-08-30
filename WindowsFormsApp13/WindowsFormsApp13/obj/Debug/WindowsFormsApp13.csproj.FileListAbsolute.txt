@@ -1,0 +1,292 @@
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.licenses
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CopyComplete
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\acer\Documents\Visual Studio 2017\Projects\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Mainform.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.licenses
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Patient.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Doctor.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LabTest.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Reception.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\Bunifu_UI_v1.52.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Prescription.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\MySql.Data.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\Guna.UI2.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojResolveAssemblyReference.cache
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ordersystem.resources
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesome.Sharp.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.dll
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.pdb
+D:\newproject\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesome.Sharp.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\Guna.UI2.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\MySql.Data.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.pdb
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Mainform.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.Cache
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.licenses
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LoginForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ManForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.BuyForm1.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.NewForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.wForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.OrderForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ReportForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojResolveAssemblyReference.cache
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminloginForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.BabyForm.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.border.resources
+D:\cartoon\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.worder.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesome.Sharp.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\Guna.UI2.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\MySql.Data.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.pdb
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminloginForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.BabyForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.border.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LoginForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Mainform.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.NewForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.OrderForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ReportForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.wForm.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.worder.resources
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.Cache
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.licenses
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
+D:\Backup-pj\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojResolveAssemblyReference.cache
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\Guna.UI2.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.pdb
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\FontAwesomeIcons.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.adminloginForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.BabyForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.border.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.LoginForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Mainform.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.NewForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.OrderForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.ReportForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.wForm.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.worder.resources
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe.licenses
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CopyComplete
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\T Anvesh Reddy\Desktop\Boutique Management System\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
